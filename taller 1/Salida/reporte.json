@@ -1,0 +1,5059 @@
+{
+  "procesados": 400,
+  "normalizados_totales": 194,
+  "errores_normalizacion": 206,
+  "validos_localmente": 190,
+  "rechazados_localmente": 4,
+  "enviados": 190,
+  "aceptados_api": 0,
+  "rechazados_api": 190,
+  "errores_comunicacion": 0,
+  "detalle_trazabilidad": [
+    {
+      "id": "PROV_A_A-0001",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0002",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0003",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0004",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0005",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0006",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0007",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0008",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0009",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0010",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0011",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0012",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0013",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0014",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0015",
+      "estado": "rechazado_localmente",
+      "motivo": "Humedad fuera de rango [0, 100]"
+    },
+    {
+      "id": "PROV_A_A-0016",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0017",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0018",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0019",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0020",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0021",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0022",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0023",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0024",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0025",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0026",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0027",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0028",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0029",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0030",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0031",
+      "estado": "rechazado_localmente",
+      "motivo": "Latitud fuera de rango [-90, 90]"
+    },
+    {
+      "id": "PROV_A_A-0032",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0033",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0034",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0035",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0036",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0037",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0038",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0039",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0040",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Campos de texto obligatorios están vacíos."
+    },
+    {
+      "id": "PROV_A_A-0041",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0042",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0043",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0044",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0045",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0046",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0047",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0048",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0049",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0050",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0051",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0052",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0053",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0054",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0055",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0056",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0057",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0058",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0059",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0060",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0061",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0062",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0063",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0064",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0065",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0066",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0067",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0068",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0069",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0070",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0071",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0072",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0073",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0074",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0075",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0076",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0077",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0078",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0079",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0080",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0081",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0082",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: could not convert string to float: 'N/A'"
+    },
+    {
+      "id": "PROV_A_A-0083",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0084",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0085",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0086",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0087",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0088",
+      "estado": "rechazado_localmente",
+      "motivo": "Viento km/h no puede ser negativo"
+    },
+    {
+      "id": "PROV_A_A-0089",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0090",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0091",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0092",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0093",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0094",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0095",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0096",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0097",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0098",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0099",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0100",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0101",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0102",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0103",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0104",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0105",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0106",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0107",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0108",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0109",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0110",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0111",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0112",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0113",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0114",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0115",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0116",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0117",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0118",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0119",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0120",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0121",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0122",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0123",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0124",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0125",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0126",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0127",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0128",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0129",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0130",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0131",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0132",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0133",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0134",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0135",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0136",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Campos de texto obligatorios están vacíos."
+    },
+    {
+      "id": "PROV_A_A-0137",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0138",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0139",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0140",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0141",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0142",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0143",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0144",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0145",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0146",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0147",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0148",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0149",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0150",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Campos de texto obligatorios están vacíos."
+    },
+    {
+      "id": "PROV_A_A-0151",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0152",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0153",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0154",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0155",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0156",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0157",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0158",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0159",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0160",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0161",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0162",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0163",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0164",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0165",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0166",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0167",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0168",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0169",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0170",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0171",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0172",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0173",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: float() argument must be a string or a real number, not 'NoneType'"
+    },
+    {
+      "id": "PROV_A_A-0174",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '09-XX-2026 25:61'"
+    },
+    {
+      "id": "PROV_A_A-0175",
+      "estado": "rechazado_localmente",
+      "motivo": "Longitud fuera de rango [-180, 180]"
+    },
+    {
+      "id": "PROV_A_A-0176",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0177",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0178",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0179",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0180",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0181",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0182",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0183",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0184",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0185",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0186",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0187",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0188",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0189",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0190",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0191",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0192",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0193",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0194",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0195",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0196",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0197",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0198",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0199",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_A_A-0200",
+      "estado": "rechazado_api",
+      "codigo_http": 409,
+      "respuesta": {
+        "detail": "La medición ya existe"
+      }
+    },
+    {
+      "id": "PROV_B_B-0001",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0002",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0003",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0004",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0005",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0006",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0007",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 10:30'"
+    },
+    {
+      "id": "PROV_B_B-0008",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 11:15'"
+    },
+    {
+      "id": "PROV_B_B-0009",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 12:00'"
+    },
+    {
+      "id": "PROV_B_B-0010",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 12:45'"
+    },
+    {
+      "id": "PROV_B_B-0011",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 13:30'"
+    },
+    {
+      "id": "PROV_B_B-0012",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 14:15'"
+    },
+    {
+      "id": "PROV_B_B-0013",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 15:00'"
+    },
+    {
+      "id": "PROV_B_B-0014",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 15:45'"
+    },
+    {
+      "id": "PROV_B_B-0015",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 16:30'"
+    },
+    {
+      "id": "PROV_B_B-0016",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 17:15'"
+    },
+    {
+      "id": "PROV_B_B-0017",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 18:00'"
+    },
+    {
+      "id": "PROV_B_B-0018",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 18:45'"
+    },
+    {
+      "id": "PROV_B_B-0019",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 19:30'"
+    },
+    {
+      "id": "PROV_B_B-0020",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 20:15'"
+    },
+    {
+      "id": "PROV_B_B-0021",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 21:00'"
+    },
+    {
+      "id": "PROV_B_B-0022",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 21:45'"
+    },
+    {
+      "id": "PROV_B_B-0023",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 22:30'"
+    },
+    {
+      "id": "PROV_B_B-0024",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '01/09/2026 23:15'"
+    },
+    {
+      "id": "PROV_B_B-0025",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 00:00'"
+    },
+    {
+      "id": "PROV_B_B-0026",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 00:45'"
+    },
+    {
+      "id": "PROV_B_B-0027",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 01:30'"
+    },
+    {
+      "id": "PROV_B_B-0028",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 02:15'"
+    },
+    {
+      "id": "PROV_B_B-0029",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 03:00'"
+    },
+    {
+      "id": "PROV_B_B-0030",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 03:45'"
+    },
+    {
+      "id": "PROV_B_B-0031",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 04:30'"
+    },
+    {
+      "id": "PROV_B_B-0032",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 05:15'"
+    },
+    {
+      "id": "PROV_B_B-0033",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0034",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0035",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0036",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0037",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0038",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0039",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 10:30'"
+    },
+    {
+      "id": "PROV_B_B-0040",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 11:15'"
+    },
+    {
+      "id": "PROV_B_B-0041",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 12:00'"
+    },
+    {
+      "id": "PROV_B_B-0042",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 12:45'"
+    },
+    {
+      "id": "PROV_B_B-0043",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 13:30'"
+    },
+    {
+      "id": "PROV_B_B-0044",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 14:15'"
+    },
+    {
+      "id": "PROV_B_B-0045",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 15:00'"
+    },
+    {
+      "id": "PROV_B_B-0046",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 15:45'"
+    },
+    {
+      "id": "PROV_B_B-0047",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 16:30'"
+    },
+    {
+      "id": "PROV_B_B-0048",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 17:15'"
+    },
+    {
+      "id": "PROV_B_B-0049",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 18:00'"
+    },
+    {
+      "id": "PROV_B_B-0050",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 18:45'"
+    },
+    {
+      "id": "PROV_B_B-0051",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 19:30'"
+    },
+    {
+      "id": "PROV_B_B-0052",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 20:15'"
+    },
+    {
+      "id": "PROV_B_B-0053",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 21:00'"
+    },
+    {
+      "id": "PROV_B_B-0054",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 21:45'"
+    },
+    {
+      "id": "PROV_B_B-0055",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 22:30'"
+    },
+    {
+      "id": "PROV_B_B-0056",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '02/09/2026 23:15'"
+    },
+    {
+      "id": "PROV_B_B-0057",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 00:00'"
+    },
+    {
+      "id": "PROV_B_B-0058",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 00:45'"
+    },
+    {
+      "id": "PROV_B_B-0059",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 01:30'"
+    },
+    {
+      "id": "PROV_B_B-0060",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 02:15'"
+    },
+    {
+      "id": "PROV_B_B-0061",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 03:00'"
+    },
+    {
+      "id": "PROV_B_B-0062",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 03:45'"
+    },
+    {
+      "id": "PROV_B_B-0063",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 04:30'"
+    },
+    {
+      "id": "PROV_B_B-0064",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 05:15'"
+    },
+    {
+      "id": "PROV_B_B-0065",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0066",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0067",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0068",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0069",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0070",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0071",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 10:30'"
+    },
+    {
+      "id": "PROV_B_B-0072",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 11:15'"
+    },
+    {
+      "id": "PROV_B_B-0073",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 12:00'"
+    },
+    {
+      "id": "PROV_B_B-0074",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 12:45'"
+    },
+    {
+      "id": "PROV_B_B-0075",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 13:30'"
+    },
+    {
+      "id": "PROV_B_B-0076",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Campos de texto obligatorios están vacíos."
+    },
+    {
+      "id": "PROV_B_B-0077",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 15:00'"
+    },
+    {
+      "id": "PROV_B_B-0078",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 15:45'"
+    },
+    {
+      "id": "PROV_B_B-0079",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 16:30'"
+    },
+    {
+      "id": "PROV_B_B-0080",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 17:15'"
+    },
+    {
+      "id": "PROV_B_B-0081",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 18:00'"
+    },
+    {
+      "id": "PROV_B_B-0082",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 18:45'"
+    },
+    {
+      "id": "PROV_B_B-0083",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 19:30'"
+    },
+    {
+      "id": "PROV_B_B-0084",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 20:15'"
+    },
+    {
+      "id": "PROV_B_B-0085",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 21:00'"
+    },
+    {
+      "id": "PROV_B_B-0086",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 21:45'"
+    },
+    {
+      "id": "PROV_B_B-0087",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 22:30'"
+    },
+    {
+      "id": "PROV_B_B-0088",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '03/09/2026 23:15'"
+    },
+    {
+      "id": "PROV_B_B-0089",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 00:00'"
+    },
+    {
+      "id": "PROV_B_B-0090",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 00:45'"
+    },
+    {
+      "id": "PROV_B_B-0091",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 01:30'"
+    },
+    {
+      "id": "PROV_B_B-0092",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 02:15'"
+    },
+    {
+      "id": "PROV_B_B-0093",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 03:00'"
+    },
+    {
+      "id": "PROV_B_B-0094",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 03:45'"
+    },
+    {
+      "id": "PROV_B_B-0095",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 04:30'"
+    },
+    {
+      "id": "PROV_B_B-0096",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 05:15'"
+    },
+    {
+      "id": "PROV_B_B-0097",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0098",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0099",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0100",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0101",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0102",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0103",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 10:30'"
+    },
+    {
+      "id": "PROV_B_B-0104",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 11:15'"
+    },
+    {
+      "id": "PROV_B_B-0105",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 12:00'"
+    },
+    {
+      "id": "PROV_B_B-0106",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 12:45'"
+    },
+    {
+      "id": "PROV_B_B-0107",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 13:30'"
+    },
+    {
+      "id": "PROV_B_B-0108",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 14:15'"
+    },
+    {
+      "id": "PROV_B_B-0109",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 15:00'"
+    },
+    {
+      "id": "PROV_B_B-0110",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 15:45'"
+    },
+    {
+      "id": "PROV_B_B-0111",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 16:30'"
+    },
+    {
+      "id": "PROV_B_B-0112",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 17:15'"
+    },
+    {
+      "id": "PROV_B_B-0113",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 18:00'"
+    },
+    {
+      "id": "PROV_B_B-0114",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: could not convert string to float: 'error'"
+    },
+    {
+      "id": "PROV_B_B-0115",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 19:30'"
+    },
+    {
+      "id": "PROV_B_B-0116",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 20:15'"
+    },
+    {
+      "id": "PROV_B_B-0117",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 21:00'"
+    },
+    {
+      "id": "PROV_B_B-0118",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 21:45'"
+    },
+    {
+      "id": "PROV_B_B-0119",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 22:30'"
+    },
+    {
+      "id": "PROV_B_B-0120",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '04/09/2026 23:15'"
+    },
+    {
+      "id": "PROV_B_B-0121",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 00:00'"
+    },
+    {
+      "id": "PROV_B_B-0122",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 00:45'"
+    },
+    {
+      "id": "PROV_B_B-0123",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 01:30'"
+    },
+    {
+      "id": "PROV_B_B-0124",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 02:15'"
+    },
+    {
+      "id": "PROV_B_B-0125",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 03:00'"
+    },
+    {
+      "id": "PROV_B_B-0126",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 03:45'"
+    },
+    {
+      "id": "PROV_B_B-0127",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 04:30'"
+    },
+    {
+      "id": "PROV_B_B-0128",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Campos de texto obligatorios están vacíos."
+    },
+    {
+      "id": "PROV_B_B-0129",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0130",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0131",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0132",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0133",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0134",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0135",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Campos de texto obligatorios están vacíos."
+    },
+    {
+      "id": "PROV_B_B-0136",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 11:15'"
+    },
+    {
+      "id": "PROV_B_B-0137",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 12:00'"
+    },
+    {
+      "id": "PROV_B_B-0138",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 12:45'"
+    },
+    {
+      "id": "PROV_B_B-0139",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 13:30'"
+    },
+    {
+      "id": "PROV_B_B-0140",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 14:15'"
+    },
+    {
+      "id": "PROV_B_B-0141",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 15:00'"
+    },
+    {
+      "id": "PROV_B_B-0142",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 15:45'"
+    },
+    {
+      "id": "PROV_B_B-0143",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 16:30'"
+    },
+    {
+      "id": "PROV_B_B-0144",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 17:15'"
+    },
+    {
+      "id": "PROV_B_B-0145",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 18:00'"
+    },
+    {
+      "id": "PROV_B_B-0146",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: could not convert string to float: ''"
+    },
+    {
+      "id": "PROV_B_B-0147",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 19:30'"
+    },
+    {
+      "id": "PROV_B_B-0148",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 20:15'"
+    },
+    {
+      "id": "PROV_B_B-0149",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 21:00'"
+    },
+    {
+      "id": "PROV_B_B-0150",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 21:45'"
+    },
+    {
+      "id": "PROV_B_B-0151",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 22:30'"
+    },
+    {
+      "id": "PROV_B_B-0152",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '05/09/2026 23:15'"
+    },
+    {
+      "id": "PROV_B_B-0153",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 00:00'"
+    },
+    {
+      "id": "PROV_B_B-0154",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 00:45'"
+    },
+    {
+      "id": "PROV_B_B-0155",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 01:30'"
+    },
+    {
+      "id": "PROV_B_B-0156",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 02:15'"
+    },
+    {
+      "id": "PROV_B_B-0157",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 03:00'"
+    },
+    {
+      "id": "PROV_B_B-0158",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 03:45'"
+    },
+    {
+      "id": "PROV_B_B-0159",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 04:30'"
+    },
+    {
+      "id": "PROV_B_B-0160",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 05:15'"
+    },
+    {
+      "id": "PROV_B_B-0161",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0162",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0163",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0164",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0165",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0166",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0167",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 10:30'"
+    },
+    {
+      "id": "PROV_B_B-0168",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 11:15'"
+    },
+    {
+      "id": "PROV_B_B-0169",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 12:00'"
+    },
+    {
+      "id": "PROV_B_B-0170",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 12:45'"
+    },
+    {
+      "id": "PROV_B_B-0171",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '31/13/2026 28:75'"
+    },
+    {
+      "id": "PROV_B_B-0172",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 14:15'"
+    },
+    {
+      "id": "PROV_B_B-0173",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 15:00'"
+    },
+    {
+      "id": "PROV_B_B-0174",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 15:45'"
+    },
+    {
+      "id": "PROV_B_B-0175",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 16:30'"
+    },
+    {
+      "id": "PROV_B_B-0176",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 17:15'"
+    },
+    {
+      "id": "PROV_B_B-0177",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 18:00'"
+    },
+    {
+      "id": "PROV_B_B-0178",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 18:45'"
+    },
+    {
+      "id": "PROV_B_B-0179",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 19:30'"
+    },
+    {
+      "id": "PROV_B_B-0180",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 20:15'"
+    },
+    {
+      "id": "PROV_B_B-0181",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 21:00'"
+    },
+    {
+      "id": "PROV_B_B-0182",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 21:45'"
+    },
+    {
+      "id": "PROV_B_B-0183",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 22:30'"
+    },
+    {
+      "id": "PROV_B_B-0184",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '06/09/2026 23:15'"
+    },
+    {
+      "id": "PROV_B_B-0185",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 00:00'"
+    },
+    {
+      "id": "PROV_B_B-0186",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 00:45'"
+    },
+    {
+      "id": "PROV_B_B-0187",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 01:30'"
+    },
+    {
+      "id": "PROV_B_B-0188",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 02:15'"
+    },
+    {
+      "id": "PROV_B_B-0189",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 03:00'"
+    },
+    {
+      "id": "PROV_B_B-0190",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 03:45'"
+    },
+    {
+      "id": "PROV_B_B-0191",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 04:30'"
+    },
+    {
+      "id": "PROV_B_B-0192",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 05:15'"
+    },
+    {
+      "id": "PROV_B_B-0193",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 06:00'"
+    },
+    {
+      "id": "PROV_B_B-0194",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 06:45'"
+    },
+    {
+      "id": "PROV_B_B-0195",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 07:30'"
+    },
+    {
+      "id": "PROV_B_B-0196",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 08:15'"
+    },
+    {
+      "id": "PROV_B_B-0197",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 09:00'"
+    },
+    {
+      "id": "PROV_B_B-0198",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 09:45'"
+    },
+    {
+      "id": "PROV_B_B-0199",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 10:30'"
+    },
+    {
+      "id": "PROV_B_B-0200",
+      "estado": "error_normalizacion",
+      "motivo": "Error de normalización: Invalid isoformat string: '07/09/2026 11:15'"
+    }
+  ],
+  "consulta_final_almacenados": {
+    "equipo": "EQUIPO-13-APPSWEB",
+    "total": 190,
+    "mediciones": [
+      {
+        "id": 3432,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.242282,
+        "longitud": -75.595933,
+        "temperatura_c": 18.94,
+        "humedad": 81.3,
+        "viento_kmh": 30.49,
+        "fecha_hora": "2026-09-01T00:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:32.783565+00:00"
+      },
+      {
+        "id": 3433,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.24089,
+        "longitud": -75.602515,
+        "temperatura_c": 21.33,
+        "humedad": 84.8,
+        "viento_kmh": 18.36,
+        "fecha_hora": "2026-09-01T00:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:33.242846+00:00"
+      },
+      {
+        "id": 3434,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.478985,
+        "longitud": -76.536078,
+        "temperatura_c": 23.06,
+        "humedad": 81.4,
+        "viento_kmh": 6.55,
+        "fecha_hora": "2026-09-01T01:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:33.620009+00:00"
+      },
+      {
+        "id": 3435,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.689884,
+        "longitud": -74.0615,
+        "temperatura_c": 23.06,
+        "humedad": 56.4,
+        "viento_kmh": 27.07,
+        "fecha_hora": "2026-09-01T01:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:33.964334+00:00"
+      },
+      {
+        "id": 3436,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.263611,
+        "longitud": -75.564036,
+        "temperatura_c": 20.39,
+        "humedad": 47.9,
+        "viento_kmh": 9.94,
+        "fecha_hora": "2026-09-01T02:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:34.387055+00:00"
+      },
+      {
+        "id": 3437,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.263473,
+        "longitud": -75.603675,
+        "temperatura_c": 29.0,
+        "humedad": 51.3,
+        "viento_kmh": 26.39,
+        "fecha_hora": "2026-09-01T02:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:34.775095+00:00"
+      },
+      {
+        "id": 3438,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.390843,
+        "longitud": -75.507519,
+        "temperatura_c": 24.67,
+        "humedad": 65.4,
+        "viento_kmh": 16.81,
+        "fecha_hora": "2026-09-01T03:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:35.180729+00:00"
+      },
+      {
+        "id": 3439,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.446973,
+        "longitud": -76.548251,
+        "temperatura_c": 21.94,
+        "humedad": 75.8,
+        "viento_kmh": 26.71,
+        "fecha_hora": "2026-09-01T03:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:35.544596+00:00"
+      },
+      {
+        "id": 3440,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.395305,
+        "longitud": -75.498713,
+        "temperatura_c": 25.5,
+        "humedad": 87.2,
+        "viento_kmh": 20.34,
+        "fecha_hora": "2026-09-01T04:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:35.878676+00:00"
+      },
+      {
+        "id": 3441,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.42462,
+        "longitud": -75.479009,
+        "temperatura_c": 26.39,
+        "humedad": 78.5,
+        "viento_kmh": 8.1,
+        "fecha_hora": "2026-09-01T04:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:36.250893+00:00"
+      },
+      {
+        "id": 3442,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.991168,
+        "longitud": -74.757893,
+        "temperatura_c": 31.83,
+        "humedad": 52.4,
+        "viento_kmh": 25.78,
+        "fecha_hora": "2026-09-01T05:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:36.587741+00:00"
+      },
+      {
+        "id": 3443,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.93704,
+        "longitud": -74.782042,
+        "temperatura_c": 23.56,
+        "humedad": 74.1,
+        "viento_kmh": 16.16,
+        "fecha_hora": "2026-09-01T05:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:36.944990+00:00"
+      },
+      {
+        "id": 3444,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.428253,
+        "longitud": -76.541643,
+        "temperatura_c": 19.61,
+        "humedad": 54.7,
+        "viento_kmh": 8.93,
+        "fecha_hora": "2026-09-01T06:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:37.398230+00:00"
+      },
+      {
+        "id": 3445,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.38505,
+        "longitud": -75.450182,
+        "temperatura_c": 24.72,
+        "humedad": 51.2,
+        "viento_kmh": 5.26,
+        "fecha_hora": "2026-09-01T06:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:37.719826+00:00"
+      },
+      {
+        "id": 3446,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.979715,
+        "longitud": -74.756412,
+        "temperatura_c": 24.39,
+        "humedad": 58.1,
+        "viento_kmh": 4.61,
+        "fecha_hora": "2026-09-01T07:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:38.043866+00:00"
+      },
+      {
+        "id": 3447,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.25171,
+        "longitud": -75.565283,
+        "temperatura_c": 19.67,
+        "humedad": 54.3,
+        "viento_kmh": 8.64,
+        "fecha_hora": "2026-09-01T08:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:38.417745+00:00"
+      },
+      {
+        "id": 3448,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.707947,
+        "longitud": -74.046587,
+        "temperatura_c": 22.28,
+        "humedad": 57.7,
+        "viento_kmh": 29.74,
+        "fecha_hora": "2026-09-01T08:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:38.767405+00:00"
+      },
+      {
+        "id": 3449,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 11.001982,
+        "longitud": -74.75066,
+        "temperatura_c": 20.44,
+        "humedad": 61.2,
+        "viento_kmh": 2.63,
+        "fecha_hora": "2026-09-01T09:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:39.117009+00:00"
+      },
+      {
+        "id": 3450,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.724563,
+        "longitud": -74.075867,
+        "temperatura_c": 21.0,
+        "humedad": 53.5,
+        "viento_kmh": 19.73,
+        "fecha_hora": "2026-09-01T09:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:39.459702+00:00"
+      },
+      {
+        "id": 3451,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.470484,
+        "longitud": -76.540685,
+        "temperatura_c": 24.56,
+        "humedad": 91.2,
+        "viento_kmh": 11.66,
+        "fecha_hora": "2026-09-01T10:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:39.780753+00:00"
+      },
+      {
+        "id": 3452,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.939851,
+        "longitud": -74.815346,
+        "temperatura_c": 22.61,
+        "humedad": 91.9,
+        "viento_kmh": 18.54,
+        "fecha_hora": "2026-09-01T10:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:40.171811+00:00"
+      },
+      {
+        "id": 3453,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.994137,
+        "longitud": -74.749277,
+        "temperatura_c": 23.28,
+        "humedad": 54.8,
+        "viento_kmh": 1.51,
+        "fecha_hora": "2026-09-01T11:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:40.498823+00:00"
+      },
+      {
+        "id": 3454,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.715838,
+        "longitud": -74.038091,
+        "temperatura_c": 26.78,
+        "humedad": 69.1,
+        "viento_kmh": 2.77,
+        "fecha_hora": "2026-09-01T11:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:40.869443+00:00"
+      },
+      {
+        "id": 3455,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.388873,
+        "longitud": -75.490785,
+        "temperatura_c": 30.5,
+        "humedad": 89.0,
+        "viento_kmh": 26.5,
+        "fecha_hora": "2026-09-01T12:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:41.251247+00:00"
+      },
+      {
+        "id": 3456,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.721268,
+        "longitud": -74.043837,
+        "temperatura_c": 29.11,
+        "humedad": 63.4,
+        "viento_kmh": 6.84,
+        "fecha_hora": "2026-09-01T12:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:41.594628+00:00"
+      },
+      {
+        "id": 3457,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.989931,
+        "longitud": -74.808681,
+        "temperatura_c": 31.44,
+        "humedad": 60.5,
+        "viento_kmh": 23.11,
+        "fecha_hora": "2026-09-01T13:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:41.947091+00:00"
+      },
+      {
+        "id": 3458,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.485191,
+        "longitud": -76.559054,
+        "temperatura_c": 21.94,
+        "humedad": 73.7,
+        "viento_kmh": 9.43,
+        "fecha_hora": "2026-09-01T13:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:42.319405+00:00"
+      },
+      {
+        "id": 3459,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.373722,
+        "longitud": -75.454345,
+        "temperatura_c": 27.78,
+        "humedad": 77.5,
+        "viento_kmh": 6.73,
+        "fecha_hora": "2026-09-01T14:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:42.677467+00:00"
+      },
+      {
+        "id": 3460,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.727732,
+        "longitud": -74.106382,
+        "temperatura_c": 19.78,
+        "humedad": 74.6,
+        "viento_kmh": 16.42,
+        "fecha_hora": "2026-09-01T14:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:43.087366+00:00"
+      },
+      {
+        "id": 3461,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.978111,
+        "longitud": -74.75328,
+        "temperatura_c": 30.28,
+        "humedad": 69.1,
+        "viento_kmh": 18.36,
+        "fecha_hora": "2026-09-01T15:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:43.468802+00:00"
+      },
+      {
+        "id": 3462,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.366127,
+        "longitud": -75.498048,
+        "temperatura_c": 19.89,
+        "humedad": 61.1,
+        "viento_kmh": 10.62,
+        "fecha_hora": "2026-09-01T16:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:43.808244+00:00"
+      },
+      {
+        "id": 3463,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.237118,
+        "longitud": -75.553695,
+        "temperatura_c": 26.17,
+        "humedad": 55.3,
+        "viento_kmh": 23.04,
+        "fecha_hora": "2026-09-01T16:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:44.167514+00:00"
+      },
+      {
+        "id": 3464,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.958664,
+        "longitud": -74.806478,
+        "temperatura_c": 31.94,
+        "humedad": 66.4,
+        "viento_kmh": 19.66,
+        "fecha_hora": "2026-09-01T17:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:44.528527+00:00"
+      },
+      {
+        "id": 3465,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.971338,
+        "longitud": -74.794597,
+        "temperatura_c": 24.39,
+        "humedad": 49.3,
+        "viento_kmh": 6.01,
+        "fecha_hora": "2026-09-01T17:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:44.917783+00:00"
+      },
+      {
+        "id": 3466,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.410702,
+        "longitud": -75.454999,
+        "temperatura_c": 29.0,
+        "humedad": 51.3,
+        "viento_kmh": 4.32,
+        "fecha_hora": "2026-09-01T18:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:45.344334+00:00"
+      },
+      {
+        "id": 3467,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.233371,
+        "longitud": -75.616009,
+        "temperatura_c": 21.22,
+        "humedad": 50.2,
+        "viento_kmh": 17.86,
+        "fecha_hora": "2026-09-01T18:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:45.698681+00:00"
+      },
+      {
+        "id": 3468,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.27179,
+        "longitud": -75.568381,
+        "temperatura_c": 28.56,
+        "humedad": 80.6,
+        "viento_kmh": 14.36,
+        "fecha_hora": "2026-09-01T19:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:46.057048+00:00"
+      },
+      {
+        "id": 3469,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.940162,
+        "longitud": -74.775118,
+        "temperatura_c": 24.44,
+        "humedad": 78.7,
+        "viento_kmh": 15.91,
+        "fecha_hora": "2026-09-01T20:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:46.552890+00:00"
+      },
+      {
+        "id": 3470,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.264381,
+        "longitud": -75.59784,
+        "temperatura_c": 23.61,
+        "humedad": 91.5,
+        "viento_kmh": 18.43,
+        "fecha_hora": "2026-09-01T20:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:46.991601+00:00"
+      },
+      {
+        "id": 3471,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.211541,
+        "longitud": -75.548217,
+        "temperatura_c": 25.89,
+        "humedad": 49.9,
+        "viento_kmh": 20.56,
+        "fecha_hora": "2026-09-01T21:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:47.388466+00:00"
+      },
+      {
+        "id": 3472,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.988991,
+        "longitud": -74.758458,
+        "temperatura_c": 18.72,
+        "humedad": 51.0,
+        "viento_kmh": 3.42,
+        "fecha_hora": "2026-09-01T21:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:47.807236+00:00"
+      },
+      {
+        "id": 3473,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.432141,
+        "longitud": -76.509579,
+        "temperatura_c": 22.61,
+        "humedad": 62.7,
+        "viento_kmh": 23.11,
+        "fecha_hora": "2026-09-01T22:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:48.154535+00:00"
+      },
+      {
+        "id": 3474,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.994996,
+        "longitud": -74.783351,
+        "temperatura_c": 22.11,
+        "humedad": 78.9,
+        "viento_kmh": 11.92,
+        "fecha_hora": "2026-09-01T22:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:48.555826+00:00"
+      },
+      {
+        "id": 3475,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.482025,
+        "longitud": -76.55179,
+        "temperatura_c": 28.06,
+        "humedad": 78.3,
+        "viento_kmh": 17.71,
+        "fecha_hora": "2026-09-01T23:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:48.888890+00:00"
+      },
+      {
+        "id": 3476,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.697935,
+        "longitud": -74.068485,
+        "temperatura_c": 25.56,
+        "humedad": 88.8,
+        "viento_kmh": 2.34,
+        "fecha_hora": "2026-09-01T23:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:49.243271+00:00"
+      },
+      {
+        "id": 3477,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.719695,
+        "longitud": -74.084108,
+        "temperatura_c": 25.39,
+        "humedad": 59.9,
+        "viento_kmh": 21.2,
+        "fecha_hora": "2026-09-02T00:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:49.653838+00:00"
+      },
+      {
+        "id": 3478,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.454373,
+        "longitud": -76.55491,
+        "temperatura_c": 18.44,
+        "humedad": 65.3,
+        "viento_kmh": 20.7,
+        "fecha_hora": "2026-09-02T00:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:50.010372+00:00"
+      },
+      {
+        "id": 3479,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.411125,
+        "longitud": -75.457564,
+        "temperatura_c": 24.56,
+        "humedad": 71.1,
+        "viento_kmh": 13.54,
+        "fecha_hora": "2026-09-02T01:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:50.420132+00:00"
+      },
+      {
+        "id": 3480,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.364442,
+        "longitud": -75.457312,
+        "temperatura_c": 21.72,
+        "humedad": 82.6,
+        "viento_kmh": 27.18,
+        "fecha_hora": "2026-09-02T01:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:50.759759+00:00"
+      },
+      {
+        "id": 3481,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.230519,
+        "longitud": -75.597717,
+        "temperatura_c": 19.67,
+        "humedad": 76.1,
+        "viento_kmh": 28.66,
+        "fecha_hora": "2026-09-02T02:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:51.089656+00:00"
+      },
+      {
+        "id": 3482,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.361914,
+        "longitud": -75.494926,
+        "temperatura_c": 18.33,
+        "humedad": 80.9,
+        "viento_kmh": 7.2,
+        "fecha_hora": "2026-09-02T02:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:51.449712+00:00"
+      },
+      {
+        "id": 3483,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.250044,
+        "longitud": -75.613491,
+        "temperatura_c": 30.0,
+        "humedad": 88.4,
+        "viento_kmh": 10.08,
+        "fecha_hora": "2026-09-02T03:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:52.098000+00:00"
+      },
+      {
+        "id": 3484,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.357598,
+        "longitud": -75.469439,
+        "temperatura_c": 18.72,
+        "humedad": 78.2,
+        "viento_kmh": 2.2,
+        "fecha_hora": "2026-09-02T03:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:52.584212+00:00"
+      },
+      {
+        "id": 3485,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.735595,
+        "longitud": -74.063992,
+        "temperatura_c": 22.11,
+        "humedad": 57.4,
+        "viento_kmh": 2.88,
+        "fecha_hora": "2026-09-02T04:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:52.959841+00:00"
+      },
+      {
+        "id": 3486,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.257244,
+        "longitud": -75.583001,
+        "temperatura_c": 23.33,
+        "humedad": 50.9,
+        "viento_kmh": 21.1,
+        "fecha_hora": "2026-09-02T04:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:53.366890+00:00"
+      },
+      {
+        "id": 3487,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.967969,
+        "longitud": -74.802963,
+        "temperatura_c": 23.67,
+        "humedad": 48.5,
+        "viento_kmh": 22.82,
+        "fecha_hora": "2026-09-02T05:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:53.786303+00:00"
+      },
+      {
+        "id": 3488,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.721328,
+        "longitud": -74.060586,
+        "temperatura_c": 27.56,
+        "humedad": 81.9,
+        "viento_kmh": 11.7,
+        "fecha_hora": "2026-09-02T05:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:54.209320+00:00"
+      },
+      {
+        "id": 3489,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 11.003012,
+        "longitud": -74.807464,
+        "temperatura_c": 30.33,
+        "humedad": 64.5,
+        "viento_kmh": 30.46,
+        "fecha_hora": "2026-09-02T06:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:54.600661+00:00"
+      },
+      {
+        "id": 3490,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.692139,
+        "longitud": -74.066964,
+        "temperatura_c": 23.0,
+        "humedad": 83.5,
+        "viento_kmh": 20.56,
+        "fecha_hora": "2026-09-02T06:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:55.144185+00:00"
+      },
+      {
+        "id": 3491,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.960074,
+        "longitud": -74.789361,
+        "temperatura_c": 30.5,
+        "humedad": 81.0,
+        "viento_kmh": 15.16,
+        "fecha_hora": "2026-09-02T07:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:55.478338+00:00"
+      },
+      {
+        "id": 3492,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.37523,
+        "longitud": -75.444558,
+        "temperatura_c": 30.28,
+        "humedad": 66.8,
+        "viento_kmh": 25.74,
+        "fecha_hora": "2026-09-02T07:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:55.825847+00:00"
+      },
+      {
+        "id": 3493,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.955931,
+        "longitud": -74.769931,
+        "temperatura_c": 31.67,
+        "humedad": 56.6,
+        "viento_kmh": 3.96,
+        "fecha_hora": "2026-09-02T08:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:56.204670+00:00"
+      },
+      {
+        "id": 3494,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.956731,
+        "longitud": -74.783394,
+        "temperatura_c": 30.61,
+        "humedad": 49.5,
+        "viento_kmh": 19.8,
+        "fecha_hora": "2026-09-02T08:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:56.692928+00:00"
+      },
+      {
+        "id": 3495,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.683868,
+        "longitud": -74.053689,
+        "temperatura_c": 31.78,
+        "humedad": 54.5,
+        "viento_kmh": 17.1,
+        "fecha_hora": "2026-09-02T09:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:57.034860+00:00"
+      },
+      {
+        "id": 3496,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.682693,
+        "longitud": -74.041379,
+        "temperatura_c": 19.0,
+        "humedad": 67.7,
+        "viento_kmh": 8.78,
+        "fecha_hora": "2026-09-02T09:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:57.450228+00:00"
+      },
+      {
+        "id": 3497,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.247402,
+        "longitud": -75.576274,
+        "temperatura_c": 26.44,
+        "humedad": 53.7,
+        "viento_kmh": 22.5,
+        "fecha_hora": "2026-09-02T10:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:57.981338+00:00"
+      },
+      {
+        "id": 3498,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.713615,
+        "longitud": -74.0418,
+        "temperatura_c": 28.33,
+        "humedad": 50.7,
+        "viento_kmh": 5.98,
+        "fecha_hora": "2026-09-02T10:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:58.406131+00:00"
+      },
+      {
+        "id": 3499,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.745787,
+        "longitud": -74.087011,
+        "temperatura_c": 28.39,
+        "humedad": 52.4,
+        "viento_kmh": 13.07,
+        "fecha_hora": "2026-09-02T11:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:58.761684+00:00"
+      },
+      {
+        "id": 3500,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.458938,
+        "longitud": -76.551443,
+        "temperatura_c": 29.5,
+        "humedad": 49.1,
+        "viento_kmh": 18.0,
+        "fecha_hora": "2026-09-02T11:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:59.137495+00:00"
+      },
+      {
+        "id": 3501,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.482465,
+        "longitud": -76.553043,
+        "temperatura_c": 29.78,
+        "humedad": 58.8,
+        "viento_kmh": 25.24,
+        "fecha_hora": "2026-09-02T12:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:32:59.565988+00:00"
+      },
+      {
+        "id": 3502,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.728116,
+        "longitud": -74.091626,
+        "temperatura_c": 27.5,
+        "humedad": 69.1,
+        "viento_kmh": 11.23,
+        "fecha_hora": "2026-09-02T12:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:00.171239+00:00"
+      },
+      {
+        "id": 3503,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.73455,
+        "longitud": -74.075015,
+        "temperatura_c": 29.11,
+        "humedad": 67.0,
+        "viento_kmh": 14.65,
+        "fecha_hora": "2026-09-02T13:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:00.558277+00:00"
+      },
+      {
+        "id": 3504,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.222722,
+        "longitud": -75.580722,
+        "temperatura_c": 24.56,
+        "humedad": 51.4,
+        "viento_kmh": 5.65,
+        "fecha_hora": "2026-09-02T13:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:00.931266+00:00"
+      },
+      {
+        "id": 3505,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.477192,
+        "longitud": -76.510648,
+        "temperatura_c": 28.11,
+        "humedad": 81.3,
+        "viento_kmh": 9.0,
+        "fecha_hora": "2026-09-02T14:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:01.294000+00:00"
+      },
+      {
+        "id": 3506,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.262278,
+        "longitud": -75.551924,
+        "temperatura_c": 23.28,
+        "humedad": 80.2,
+        "viento_kmh": 30.28,
+        "fecha_hora": "2026-09-02T14:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:01.644647+00:00"
+      },
+      {
+        "id": 3507,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.264253,
+        "longitud": -75.605221,
+        "temperatura_c": 28.22,
+        "humedad": 52.9,
+        "viento_kmh": 26.14,
+        "fecha_hora": "2026-09-02T15:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:02.047964+00:00"
+      },
+      {
+        "id": 3508,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.718732,
+        "longitud": -74.096325,
+        "temperatura_c": 21.5,
+        "humedad": 86.9,
+        "viento_kmh": 0.97,
+        "fecha_hora": "2026-09-02T15:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:02.426423+00:00"
+      },
+      {
+        "id": 3509,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.273318,
+        "longitud": -75.588683,
+        "temperatura_c": 25.94,
+        "humedad": 64.2,
+        "viento_kmh": 19.58,
+        "fecha_hora": "2026-09-02T16:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:02.777873+00:00"
+      },
+      {
+        "id": 3510,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.463862,
+        "longitud": -76.560217,
+        "temperatura_c": 27.61,
+        "humedad": 45.4,
+        "viento_kmh": 15.41,
+        "fecha_hora": "2026-09-02T17:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:03.155509+00:00"
+      },
+      {
+        "id": 3511,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.248413,
+        "longitud": -75.557827,
+        "temperatura_c": 22.17,
+        "humedad": 55.9,
+        "viento_kmh": 3.49,
+        "fecha_hora": "2026-09-02T17:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:03.538017+00:00"
+      },
+      {
+        "id": 3512,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.993794,
+        "longitud": -74.800794,
+        "temperatura_c": 23.39,
+        "humedad": 70.5,
+        "viento_kmh": 20.66,
+        "fecha_hora": "2026-09-02T18:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:04.028244+00:00"
+      },
+      {
+        "id": 3513,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.959161,
+        "longitud": -74.798969,
+        "temperatura_c": 30.89,
+        "humedad": 67.4,
+        "viento_kmh": 16.74,
+        "fecha_hora": "2026-09-02T18:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:04.381056+00:00"
+      },
+      {
+        "id": 3514,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.44596,
+        "longitud": -76.513519,
+        "temperatura_c": 29.56,
+        "humedad": 81.8,
+        "viento_kmh": 12.46,
+        "fecha_hora": "2026-09-02T19:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:04.765846+00:00"
+      },
+      {
+        "id": 3515,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.745479,
+        "longitud": -74.059381,
+        "temperatura_c": 22.94,
+        "humedad": 91.9,
+        "viento_kmh": 9.97,
+        "fecha_hora": "2026-09-02T20:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:05.163669+00:00"
+      },
+      {
+        "id": 3516,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.223375,
+        "longitud": -75.612254,
+        "temperatura_c": 20.94,
+        "humedad": 78.5,
+        "viento_kmh": 17.75,
+        "fecha_hora": "2026-09-02T20:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:05.552246+00:00"
+      },
+      {
+        "id": 3517,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.692325,
+        "longitud": -74.062365,
+        "temperatura_c": 22.22,
+        "humedad": 70.6,
+        "viento_kmh": 9.29,
+        "fecha_hora": "2026-09-02T21:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:05.992730+00:00"
+      },
+      {
+        "id": 3518,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.235675,
+        "longitud": -75.605476,
+        "temperatura_c": 25.83,
+        "humedad": 57.9,
+        "viento_kmh": 16.96,
+        "fecha_hora": "2026-09-02T21:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:06.329863+00:00"
+      },
+      {
+        "id": 3519,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.935937,
+        "longitud": -74.804634,
+        "temperatura_c": 27.39,
+        "humedad": 64.5,
+        "viento_kmh": 5.29,
+        "fecha_hora": "2026-09-02T22:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:06.719246+00:00"
+      },
+      {
+        "id": 3520,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.4717,
+        "longitud": -76.562983,
+        "temperatura_c": 31.56,
+        "humedad": 89.2,
+        "viento_kmh": 7.63,
+        "fecha_hora": "2026-09-02T22:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:07.120588+00:00"
+      },
+      {
+        "id": 3521,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.266563,
+        "longitud": -75.603516,
+        "temperatura_c": 19.33,
+        "humedad": 70.2,
+        "viento_kmh": 25.49,
+        "fecha_hora": "2026-09-02T23:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:07.454673+00:00"
+      },
+      {
+        "id": 3522,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.212333,
+        "longitud": -75.550177,
+        "temperatura_c": 24.33,
+        "humedad": 54.7,
+        "viento_kmh": 2.3,
+        "fecha_hora": "2026-09-02T23:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:07.792553+00:00"
+      },
+      {
+        "id": 3523,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.26735,
+        "longitud": -75.567051,
+        "temperatura_c": 21.11,
+        "humedad": 47.7,
+        "viento_kmh": 16.81,
+        "fecha_hora": "2026-09-03T00:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:08.154470+00:00"
+      },
+      {
+        "id": 3524,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.247136,
+        "longitud": -75.61524,
+        "temperatura_c": 20.39,
+        "humedad": 62.8,
+        "viento_kmh": 19.84,
+        "fecha_hora": "2026-09-03T00:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:08.488763+00:00"
+      },
+      {
+        "id": 3525,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.383402,
+        "longitud": -75.474859,
+        "temperatura_c": 29.89,
+        "humedad": 59.0,
+        "viento_kmh": 18.86,
+        "fecha_hora": "2026-09-03T01:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:08.816462+00:00"
+      },
+      {
+        "id": 3526,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.485531,
+        "longitud": -76.560289,
+        "temperatura_c": 22.33,
+        "humedad": 74.3,
+        "viento_kmh": 4.1,
+        "fecha_hora": "2026-09-03T01:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:09.154749+00:00"
+      },
+      {
+        "id": 3527,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.713685,
+        "longitud": -74.054516,
+        "temperatura_c": 24.33,
+        "humedad": 76.4,
+        "viento_kmh": 12.31,
+        "fecha_hora": "2026-09-03T02:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:09.475209+00:00"
+      },
+      {
+        "id": 3528,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.957536,
+        "longitud": -74.80663,
+        "temperatura_c": 22.78,
+        "humedad": 85.5,
+        "viento_kmh": 27.14,
+        "fecha_hora": "2026-09-03T02:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:10.038164+00:00"
+      },
+      {
+        "id": 3529,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.471387,
+        "longitud": -76.554327,
+        "temperatura_c": 30.72,
+        "humedad": 84.7,
+        "viento_kmh": 2.05,
+        "fecha_hora": "2026-09-03T03:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:10.406784+00:00"
+      },
+      {
+        "id": 3530,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.396356,
+        "longitud": -75.46634,
+        "temperatura_c": 28.89,
+        "humedad": 72.7,
+        "viento_kmh": 13.68,
+        "fecha_hora": "2026-09-03T03:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:10.720464+00:00"
+      },
+      {
+        "id": 3531,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.263513,
+        "longitud": -75.559302,
+        "temperatura_c": 25.78,
+        "humedad": 55.7,
+        "viento_kmh": 25.99,
+        "fecha_hora": "2026-09-03T04:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:11.094199+00:00"
+      },
+      {
+        "id": 3532,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.949735,
+        "longitud": -74.794939,
+        "temperatura_c": 31.83,
+        "humedad": 57.0,
+        "viento_kmh": 2.3,
+        "fecha_hora": "2026-09-03T04:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:11.428249+00:00"
+      },
+      {
+        "id": 3533,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.404031,
+        "longitud": -75.491747,
+        "temperatura_c": 23.67,
+        "humedad": 79.8,
+        "viento_kmh": 2.7,
+        "fecha_hora": "2026-09-03T05:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:11.748032+00:00"
+      },
+      {
+        "id": 3534,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.218128,
+        "longitud": -75.589882,
+        "temperatura_c": 25.56,
+        "humedad": 58.3,
+        "viento_kmh": 25.34,
+        "fecha_hora": "2026-09-03T05:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:12.055538+00:00"
+      },
+      {
+        "id": 3535,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.436789,
+        "longitud": -76.497283,
+        "temperatura_c": 31.61,
+        "humedad": 72.9,
+        "viento_kmh": 1.15,
+        "fecha_hora": "2026-09-03T06:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:12.463120+00:00"
+      },
+      {
+        "id": 3536,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.390106,
+        "longitud": -75.450171,
+        "temperatura_c": 21.39,
+        "humedad": 60.5,
+        "viento_kmh": 1.76,
+        "fecha_hora": "2026-09-03T06:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:12.779825+00:00"
+      },
+      {
+        "id": 3537,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.97859,
+        "longitud": -74.753348,
+        "temperatura_c": 25.28,
+        "humedad": 60.6,
+        "viento_kmh": 16.92,
+        "fecha_hora": "2026-09-03T07:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:13.144822+00:00"
+      },
+      {
+        "id": 3538,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.687426,
+        "longitud": -74.052516,
+        "temperatura_c": 25.33,
+        "humedad": 75.0,
+        "viento_kmh": 27.68,
+        "fecha_hora": "2026-09-03T07:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:13.542732+00:00"
+      },
+      {
+        "id": 3539,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.229562,
+        "longitud": -75.549553,
+        "temperatura_c": 18.39,
+        "humedad": 73.2,
+        "viento_kmh": 17.28,
+        "fecha_hora": "2026-09-03T08:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:13.889309+00:00"
+      },
+      {
+        "id": 3540,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.370746,
+        "longitud": -75.481064,
+        "temperatura_c": 26.17,
+        "humedad": 81.9,
+        "viento_kmh": 9.25,
+        "fecha_hora": "2026-09-03T08:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:14.263510+00:00"
+      },
+      {
+        "id": 3541,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.970347,
+        "longitud": -74.763741,
+        "temperatura_c": 20.22,
+        "humedad": 60.5,
+        "viento_kmh": 25.38,
+        "fecha_hora": "2026-09-03T09:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:14.651570+00:00"
+      },
+      {
+        "id": 3542,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.486547,
+        "longitud": -76.501976,
+        "temperatura_c": 28.67,
+        "humedad": 58.5,
+        "viento_kmh": 20.38,
+        "fecha_hora": "2026-09-03T09:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:14.989651+00:00"
+      },
+      {
+        "id": 3543,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.723585,
+        "longitud": -74.0994,
+        "temperatura_c": 18.11,
+        "humedad": 52.0,
+        "viento_kmh": 25.67,
+        "fecha_hora": "2026-09-03T10:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:15.410696+00:00"
+      },
+      {
+        "id": 3544,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.968868,
+        "longitud": -74.77279,
+        "temperatura_c": 26.17,
+        "humedad": 47.9,
+        "viento_kmh": 11.3,
+        "fecha_hora": "2026-09-03T10:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:15.755206+00:00"
+      },
+      {
+        "id": 3545,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.477031,
+        "longitud": -76.546686,
+        "temperatura_c": 24.83,
+        "humedad": 60.6,
+        "viento_kmh": 15.98,
+        "fecha_hora": "2026-09-03T11:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:16.063223+00:00"
+      },
+      {
+        "id": 3546,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.389992,
+        "longitud": -75.476201,
+        "temperatura_c": 19.67,
+        "humedad": 90.7,
+        "viento_kmh": 13.14,
+        "fecha_hora": "2026-09-03T11:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:16.410268+00:00"
+      },
+      {
+        "id": 3547,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.681356,
+        "longitud": -74.039519,
+        "temperatura_c": 25.83,
+        "humedad": 51.2,
+        "viento_kmh": 16.49,
+        "fecha_hora": "2026-09-03T12:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:16.750621+00:00"
+      },
+      {
+        "id": 3548,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.420022,
+        "longitud": -75.496682,
+        "temperatura_c": 20.06,
+        "humedad": 92.0,
+        "viento_kmh": 8.78,
+        "fecha_hora": "2026-09-03T12:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:17.079766+00:00"
+      },
+      {
+        "id": 3549,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.269357,
+        "longitud": -75.549005,
+        "temperatura_c": 27.33,
+        "humedad": 72.4,
+        "viento_kmh": 3.06,
+        "fecha_hora": "2026-09-03T13:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:17.452338+00:00"
+      },
+      {
+        "id": 3550,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.232818,
+        "longitud": -75.571261,
+        "temperatura_c": 30.67,
+        "humedad": 54.9,
+        "viento_kmh": 2.59,
+        "fecha_hora": "2026-09-03T13:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:17.768007+00:00"
+      },
+      {
+        "id": 3551,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.981767,
+        "longitud": -74.782462,
+        "temperatura_c": 21.61,
+        "humedad": 88.6,
+        "viento_kmh": 25.85,
+        "fecha_hora": "2026-09-03T14:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:18.118258+00:00"
+      },
+      {
+        "id": 3552,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.382828,
+        "longitud": -75.478549,
+        "temperatura_c": 20.33,
+        "humedad": 50.3,
+        "viento_kmh": 7.24,
+        "fecha_hora": "2026-09-03T14:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:18.450244+00:00"
+      },
+      {
+        "id": 3553,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.365675,
+        "longitud": -75.464587,
+        "temperatura_c": 28.83,
+        "humedad": 87.9,
+        "viento_kmh": 4.61,
+        "fecha_hora": "2026-09-03T15:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:18.800437+00:00"
+      },
+      {
+        "id": 3554,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.357388,
+        "longitud": -75.50868,
+        "temperatura_c": 26.94,
+        "humedad": 79.8,
+        "viento_kmh": 22.28,
+        "fecha_hora": "2026-09-03T15:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:19.135238+00:00"
+      },
+      {
+        "id": 3555,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.481406,
+        "longitud": -76.49952,
+        "temperatura_c": 20.89,
+        "humedad": 59.8,
+        "viento_kmh": 17.93,
+        "fecha_hora": "2026-09-03T16:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:19.461381+00:00"
+      },
+      {
+        "id": 3556,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.40744,
+        "longitud": -75.468519,
+        "temperatura_c": 19.22,
+        "humedad": 70.4,
+        "viento_kmh": 21.74,
+        "fecha_hora": "2026-09-03T16:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:19.864427+00:00"
+      },
+      {
+        "id": 3557,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.435438,
+        "longitud": -76.549804,
+        "temperatura_c": 26.39,
+        "humedad": 49.7,
+        "viento_kmh": 4.57,
+        "fecha_hora": "2026-09-03T17:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:20.231312+00:00"
+      },
+      {
+        "id": 3558,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.967257,
+        "longitud": -74.802259,
+        "temperatura_c": 31.22,
+        "humedad": 52.8,
+        "viento_kmh": 10.8,
+        "fecha_hora": "2026-09-03T17:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:20.576228+00:00"
+      },
+      {
+        "id": 3559,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.383144,
+        "longitud": -75.486669,
+        "temperatura_c": 27.39,
+        "humedad": 62.5,
+        "viento_kmh": 13.18,
+        "fecha_hora": "2026-09-03T18:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:20.959815+00:00"
+      },
+      {
+        "id": 3560,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.718172,
+        "longitud": -74.098892,
+        "temperatura_c": 27.67,
+        "humedad": 91.4,
+        "viento_kmh": 30.38,
+        "fecha_hora": "2026-09-03T18:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:21.330894+00:00"
+      },
+      {
+        "id": 3561,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.235918,
+        "longitud": -75.610368,
+        "temperatura_c": 19.44,
+        "humedad": 56.9,
+        "viento_kmh": 2.7,
+        "fecha_hora": "2026-09-03T19:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:21.662784+00:00"
+      },
+      {
+        "id": 3562,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.464988,
+        "longitud": -76.558198,
+        "temperatura_c": 28.11,
+        "humedad": 49.1,
+        "viento_kmh": 14.98,
+        "fecha_hora": "2026-09-03T20:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:22.021257+00:00"
+      },
+      {
+        "id": 3563,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.387364,
+        "longitud": -75.457632,
+        "temperatura_c": 18.28,
+        "humedad": 50.2,
+        "viento_kmh": 4.03,
+        "fecha_hora": "2026-09-03T20:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:22.351254+00:00"
+      },
+      {
+        "id": 3564,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.996126,
+        "longitud": -74.793015,
+        "temperatura_c": 26.89,
+        "humedad": 70.8,
+        "viento_kmh": 19.19,
+        "fecha_hora": "2026-09-03T21:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:22.655484+00:00"
+      },
+      {
+        "id": 3565,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.247427,
+        "longitud": -75.592971,
+        "temperatura_c": 28.33,
+        "humedad": 54.5,
+        "viento_kmh": 2.27,
+        "fecha_hora": "2026-09-03T21:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:22.984658+00:00"
+      },
+      {
+        "id": 3566,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.397132,
+        "longitud": -75.512446,
+        "temperatura_c": 30.33,
+        "humedad": 59.7,
+        "viento_kmh": 23.65,
+        "fecha_hora": "2026-09-03T22:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:23.320216+00:00"
+      },
+      {
+        "id": 3567,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.951739,
+        "longitud": -74.769577,
+        "temperatura_c": 23.78,
+        "humedad": 52.8,
+        "viento_kmh": 26.28,
+        "fecha_hora": "2026-09-03T22:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:23.664795+00:00"
+      },
+      {
+        "id": 3568,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.255416,
+        "longitud": -75.564976,
+        "temperatura_c": 28.39,
+        "humedad": 81.3,
+        "viento_kmh": 18.47,
+        "fecha_hora": "2026-09-03T23:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:24.073202+00:00"
+      },
+      {
+        "id": 3569,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.698673,
+        "longitud": -74.092377,
+        "temperatura_c": 31.11,
+        "humedad": 61.9,
+        "viento_kmh": 20.84,
+        "fecha_hora": "2026-09-03T23:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:24.408511+00:00"
+      },
+      {
+        "id": 3570,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.440095,
+        "longitud": -76.55599,
+        "temperatura_c": 29.72,
+        "humedad": 85.3,
+        "viento_kmh": 22.43,
+        "fecha_hora": "2026-09-04T00:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:24.714194+00:00"
+      },
+      {
+        "id": 3571,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.42541,
+        "longitud": -75.477525,
+        "temperatura_c": 20.06,
+        "humedad": 46.5,
+        "viento_kmh": 8.93,
+        "fecha_hora": "2026-09-04T00:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:25.066798+00:00"
+      },
+      {
+        "id": 3572,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.483429,
+        "longitud": -76.534728,
+        "temperatura_c": 18.78,
+        "humedad": 62.1,
+        "viento_kmh": 13.57,
+        "fecha_hora": "2026-09-04T01:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:25.477299+00:00"
+      },
+      {
+        "id": 3573,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.425305,
+        "longitud": -75.456707,
+        "temperatura_c": 19.28,
+        "humedad": 69.6,
+        "viento_kmh": 22.75,
+        "fecha_hora": "2026-09-04T01:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:25.793481+00:00"
+      },
+      {
+        "id": 3574,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.985143,
+        "longitud": -74.753569,
+        "temperatura_c": 24.94,
+        "humedad": 72.2,
+        "viento_kmh": 15.34,
+        "fecha_hora": "2026-09-04T02:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:26.138758+00:00"
+      },
+      {
+        "id": 3575,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.232717,
+        "longitud": -75.572759,
+        "temperatura_c": 27.28,
+        "humedad": 49.7,
+        "viento_kmh": 26.03,
+        "fecha_hora": "2026-09-04T03:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:26.479528+00:00"
+      },
+      {
+        "id": 3576,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.960839,
+        "longitud": -74.758897,
+        "temperatura_c": 27.22,
+        "humedad": 77.5,
+        "viento_kmh": 24.91,
+        "fecha_hora": "2026-09-04T03:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:26.813178+00:00"
+      },
+      {
+        "id": 3577,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.697141,
+        "longitud": -74.084498,
+        "temperatura_c": 29.67,
+        "humedad": 81.8,
+        "viento_kmh": 14.11,
+        "fecha_hora": "2026-09-04T04:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:27.173029+00:00"
+      },
+      {
+        "id": 3578,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.421595,
+        "longitud": -76.499686,
+        "temperatura_c": 29.89,
+        "humedad": 51.1,
+        "viento_kmh": 10.84,
+        "fecha_hora": "2026-09-04T04:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:27.548103+00:00"
+      },
+      {
+        "id": 3579,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.240985,
+        "longitud": -75.600347,
+        "temperatura_c": 24.0,
+        "humedad": 83.4,
+        "viento_kmh": 19.98,
+        "fecha_hora": "2026-09-04T05:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:27.897828+00:00"
+      },
+      {
+        "id": 3580,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.45355,
+        "longitud": -76.560839,
+        "temperatura_c": 30.0,
+        "humedad": 56.6,
+        "viento_kmh": 10.26,
+        "fecha_hora": "2026-09-04T05:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:28.242108+00:00"
+      },
+      {
+        "id": 3581,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.253659,
+        "longitud": -75.561282,
+        "temperatura_c": 20.83,
+        "humedad": 48.6,
+        "viento_kmh": 22.61,
+        "fecha_hora": "2026-09-04T06:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:28.573826+00:00"
+      },
+      {
+        "id": 3582,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.212927,
+        "longitud": -75.59939,
+        "temperatura_c": 19.78,
+        "humedad": 88.5,
+        "viento_kmh": 29.02,
+        "fecha_hora": "2026-09-04T06:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:28.909974+00:00"
+      },
+      {
+        "id": 3583,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.417804,
+        "longitud": -76.561375,
+        "temperatura_c": 19.78,
+        "humedad": 80.6,
+        "viento_kmh": 5.33,
+        "fecha_hora": "2026-09-04T07:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:29.278952+00:00"
+      },
+      {
+        "id": 3584,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.71935,
+        "longitud": -74.102161,
+        "temperatura_c": 21.89,
+        "humedad": 75.1,
+        "viento_kmh": 26.5,
+        "fecha_hora": "2026-09-04T07:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:29.629716+00:00"
+      },
+      {
+        "id": 3585,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.235507,
+        "longitud": -75.583239,
+        "temperatura_c": 21.67,
+        "humedad": 81.4,
+        "viento_kmh": 30.42,
+        "fecha_hora": "2026-09-04T08:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:29.989800+00:00"
+      },
+      {
+        "id": 3586,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.264826,
+        "longitud": -75.578313,
+        "temperatura_c": 25.44,
+        "humedad": 46.5,
+        "viento_kmh": 21.74,
+        "fecha_hora": "2026-09-04T08:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:30.362901+00:00"
+      },
+      {
+        "id": 3587,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.359257,
+        "longitud": -75.453103,
+        "temperatura_c": 31.28,
+        "humedad": 88.5,
+        "viento_kmh": 7.45,
+        "fecha_hora": "2026-09-04T09:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:30.720189+00:00"
+      },
+      {
+        "id": 3588,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.39885,
+        "longitud": -75.497714,
+        "temperatura_c": 30.89,
+        "humedad": 76.3,
+        "viento_kmh": 28.91,
+        "fecha_hora": "2026-09-04T09:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:31.030619+00:00"
+      },
+      {
+        "id": 3589,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.256158,
+        "longitud": -75.565128,
+        "temperatura_c": 26.17,
+        "humedad": 85.6,
+        "viento_kmh": 2.48,
+        "fecha_hora": "2026-09-04T10:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:31.360684+00:00"
+      },
+      {
+        "id": 3590,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.466006,
+        "longitud": -76.502306,
+        "temperatura_c": 27.33,
+        "humedad": 69.4,
+        "viento_kmh": 4.03,
+        "fecha_hora": "2026-09-04T10:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:31.676114+00:00"
+      },
+      {
+        "id": 3591,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.240943,
+        "longitud": -75.551592,
+        "temperatura_c": 19.89,
+        "humedad": 87.4,
+        "viento_kmh": 25.88,
+        "fecha_hora": "2026-09-04T11:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:32.012921+00:00"
+      },
+      {
+        "id": 3592,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.97399,
+        "longitud": -74.813519,
+        "temperatura_c": 29.28,
+        "humedad": 50.7,
+        "viento_kmh": 23.44,
+        "fecha_hora": "2026-09-04T11:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:32.378786+00:00"
+      },
+      {
+        "id": 3593,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.691571,
+        "longitud": -74.051339,
+        "temperatura_c": 22.67,
+        "humedad": 57.6,
+        "viento_kmh": 24.12,
+        "fecha_hora": "2026-09-04T12:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:32.800835+00:00"
+      },
+      {
+        "id": 3594,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.715343,
+        "longitud": -74.058101,
+        "temperatura_c": 31.78,
+        "humedad": 73.1,
+        "viento_kmh": 26.82,
+        "fecha_hora": "2026-09-04T12:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:33.170165+00:00"
+      },
+      {
+        "id": 3595,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.724025,
+        "longitud": -74.044187,
+        "temperatura_c": 21.44,
+        "humedad": 75.8,
+        "viento_kmh": 17.75,
+        "fecha_hora": "2026-09-04T13:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:33.586401+00:00"
+      },
+      {
+        "id": 3596,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.232292,
+        "longitud": -75.606376,
+        "temperatura_c": 25.17,
+        "humedad": 53.7,
+        "viento_kmh": 7.02,
+        "fecha_hora": "2026-09-04T13:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:33.951895+00:00"
+      },
+      {
+        "id": 3597,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.412584,
+        "longitud": -75.499825,
+        "temperatura_c": 28.39,
+        "humedad": 90.7,
+        "viento_kmh": 2.27,
+        "fecha_hora": "2026-09-04T15:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:34.300582+00:00"
+      },
+      {
+        "id": 3598,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.433823,
+        "longitud": -76.516125,
+        "temperatura_c": 26.89,
+        "humedad": 85.1,
+        "viento_kmh": 7.52,
+        "fecha_hora": "2026-09-04T16:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:34.742622+00:00"
+      },
+      {
+        "id": 3599,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.215213,
+        "longitud": -75.569732,
+        "temperatura_c": 30.72,
+        "humedad": 82.4,
+        "viento_kmh": 16.02,
+        "fecha_hora": "2026-09-04T16:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:35.085405+00:00"
+      },
+      {
+        "id": 3600,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.223014,
+        "longitud": -75.577761,
+        "temperatura_c": 30.06,
+        "humedad": 81.5,
+        "viento_kmh": 23.8,
+        "fecha_hora": "2026-09-04T17:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:35.433909+00:00"
+      },
+      {
+        "id": 3601,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.461725,
+        "longitud": -76.507785,
+        "temperatura_c": 23.67,
+        "humedad": 70.9,
+        "viento_kmh": 9.86,
+        "fecha_hora": "2026-09-04T17:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:35.796131+00:00"
+      },
+      {
+        "id": 3602,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.941978,
+        "longitud": -74.796086,
+        "temperatura_c": 30.89,
+        "humedad": 81.9,
+        "viento_kmh": 1.44,
+        "fecha_hora": "2026-09-04T18:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:36.121671+00:00"
+      },
+      {
+        "id": 3603,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.41218,
+        "longitud": -75.499068,
+        "temperatura_c": 25.56,
+        "humedad": 91.5,
+        "viento_kmh": 11.09,
+        "fecha_hora": "2026-09-04T18:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:36.449645+00:00"
+      },
+      {
+        "id": 3604,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.383624,
+        "longitud": -75.480782,
+        "temperatura_c": 23.06,
+        "humedad": 83.1,
+        "viento_kmh": 9.97,
+        "fecha_hora": "2026-09-04T19:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:36.779252+00:00"
+      },
+      {
+        "id": 3605,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.361845,
+        "longitud": -75.510247,
+        "temperatura_c": 24.89,
+        "humedad": 74.1,
+        "viento_kmh": 8.06,
+        "fecha_hora": "2026-09-04T19:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:37.139146+00:00"
+      },
+      {
+        "id": 3606,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.707059,
+        "longitud": -74.082765,
+        "temperatura_c": 30.39,
+        "humedad": 65.7,
+        "viento_kmh": 4.0,
+        "fecha_hora": "2026-09-04T20:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:37.536035+00:00"
+      },
+      {
+        "id": 3607,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.216217,
+        "longitud": -75.599998,
+        "temperatura_c": 28.61,
+        "humedad": 45.9,
+        "viento_kmh": 27.61,
+        "fecha_hora": "2026-09-04T20:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:37.842457+00:00"
+      },
+      {
+        "id": 3608,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.70482,
+        "longitud": -74.087154,
+        "temperatura_c": 27.56,
+        "humedad": 52.1,
+        "viento_kmh": 12.92,
+        "fecha_hora": "2026-09-04T21:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:38.154491+00:00"
+      },
+      {
+        "id": 3609,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.939204,
+        "longitud": -74.794843,
+        "temperatura_c": 31.5,
+        "humedad": 48.5,
+        "viento_kmh": 7.67,
+        "fecha_hora": "2026-09-04T21:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:38.463616+00:00"
+      },
+      {
+        "id": 3610,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.47573,
+        "longitud": -76.508921,
+        "temperatura_c": 28.17,
+        "humedad": 65.9,
+        "viento_kmh": 18.07,
+        "fecha_hora": "2026-09-04T22:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:38.784215+00:00"
+      },
+      {
+        "id": 3611,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.438267,
+        "longitud": -76.521307,
+        "temperatura_c": 20.44,
+        "humedad": 46.4,
+        "viento_kmh": 0.94,
+        "fecha_hora": "2026-09-04T22:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:39.099920+00:00"
+      },
+      {
+        "id": 3612,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.707242,
+        "longitud": -74.09518,
+        "temperatura_c": 18.94,
+        "humedad": 68.8,
+        "viento_kmh": 10.62,
+        "fecha_hora": "2026-09-04T23:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:39.420326+00:00"
+      },
+      {
+        "id": 3613,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.232287,
+        "longitud": -75.57048,
+        "temperatura_c": 29.0,
+        "humedad": 54.3,
+        "viento_kmh": 28.01,
+        "fecha_hora": "2026-09-04T23:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:39.741812+00:00"
+      },
+      {
+        "id": 3614,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.239087,
+        "longitud": -75.600149,
+        "temperatura_c": 29.83,
+        "humedad": 80.1,
+        "viento_kmh": 24.59,
+        "fecha_hora": "2026-09-05T00:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:40.122804+00:00"
+      },
+      {
+        "id": 3615,
+        "ciudad": "Cali",
+        "pais": "CO",
+        "latitud": 3.479097,
+        "longitud": -76.565484,
+        "temperatura_c": 23.5,
+        "humedad": 60.6,
+        "viento_kmh": 4.72,
+        "fecha_hora": "2026-09-05T00:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:40.491290+00:00"
+      },
+      {
+        "id": 3616,
+        "ciudad": "Medellin",
+        "pais": "CO",
+        "latitud": 6.258573,
+        "longitud": -75.548604,
+        "temperatura_c": 23.56,
+        "humedad": 88.5,
+        "viento_kmh": 15.19,
+        "fecha_hora": "2026-09-05T01:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:40.810768+00:00"
+      },
+      {
+        "id": 3617,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.41658,
+        "longitud": -75.484161,
+        "temperatura_c": 29.83,
+        "humedad": 86.6,
+        "viento_kmh": 6.73,
+        "fecha_hora": "2026-09-05T01:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:41.213909+00:00"
+      },
+      {
+        "id": 3618,
+        "ciudad": "Bogota",
+        "pais": "CO",
+        "latitud": 4.698228,
+        "longitud": -74.039363,
+        "temperatura_c": 29.61,
+        "humedad": 86.4,
+        "viento_kmh": 7.56,
+        "fecha_hora": "2026-09-05T02:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:41.554000+00:00"
+      },
+      {
+        "id": 3619,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.384184,
+        "longitud": -75.452442,
+        "temperatura_c": 20.61,
+        "humedad": 71.8,
+        "viento_kmh": 5.22,
+        "fecha_hora": "2026-09-05T02:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:41.886619+00:00"
+      },
+      {
+        "id": 3620,
+        "ciudad": "Cartagena",
+        "pais": "CO",
+        "latitud": 10.418775,
+        "longitud": -75.474207,
+        "temperatura_c": 30.0,
+        "humedad": 88.2,
+        "viento_kmh": 18.0,
+        "fecha_hora": "2026-09-05T03:00:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:42.215506+00:00"
+      },
+      {
+        "id": 3621,
+        "ciudad": "Barranquilla",
+        "pais": "CO",
+        "latitud": 10.993677,
+        "longitud": -74.803544,
+        "temperatura_c": 31.89,
+        "humedad": 59.7,
+        "viento_kmh": 9.61,
+        "fecha_hora": "2026-09-05T03:30:00-05:00",
+        "origen": "proveedor_a",
+        "fecha_recepcion": "2026-09-13T16:33:42.621750+00:00"
+      }
+    ]
+  }
+}
